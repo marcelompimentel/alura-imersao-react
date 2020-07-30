@@ -8,7 +8,7 @@ function ButtonLink(props) {
 	)
 }
 
-// Poderia ser implementado em ES6:
+// Poderia ser implementado com ES6:
 // https://pt-br.reactjs.org/docs/components-and-props.html
 
 export default ButtonLink
